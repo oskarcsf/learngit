@@ -1,4 +1,5 @@
-this is first line\m
-this is second line\m
+this is first line
+
+this is second line
 
 this is the third commit line 
